@@ -1,0 +1,113 @@
+BCSymbolMap Version: 2.0
+-[UIView(SetRect) viewOrigin]
+-[UIView(SetRect) setViewOrigin:]
+-[UIView(SetRect) viewSize]
+-[UIView(SetRect) setViewSize:]
+-[UIView(SetRect) x]
+-[UIView(SetRect) setX:]
+-[UIView(SetRect) y]
+-[UIView(SetRect) setY:]
+-[UIView(SetRect) width]
+-[UIView(SetRect) setWidth:]
+-[UIView(SetRect) height]
+-[UIView(SetRect) setHeight:]
+-[UIView(SetRect) top]
+-[UIView(SetRect) setTop:]
+-[UIView(SetRect) bottom]
+-[UIView(SetRect) setBottom:]
+-[UIView(SetRect) left]
+-[UIView(SetRect) setLeft:]
+-[UIView(SetRect) right]
+-[UIView(SetRect) setRight:]
+-[UIView(SetRect) centerX]
+-[UIView(SetRect) setCenterX:]
+-[UIView(SetRect) centerY]
+-[UIView(SetRect) setCenterY:]
+-[UIView(SetRect) bottomRight]
+-[UIView(SetRect) bottomLeft]
+-[UIView(SetRect) topRight]
+-[UIView(SetRect) topLeft]
+-[UIView(SetRect) middleX]
+-[UIView(SetRect) middleY]
+-[UIView(SetRect) middlePoint]
+-[UIView(SetRect) size]
+-[UIView(SetRect) setSize:]
+-[UIView(SetRect) setCornerOnTop:]
+-[UIView(SetRect) setCornerOnBottom:]
+-[UIView(SetRect) setCornerOnLeft:]
+-[UIView(SetRect) setCornerOnRight:]
+-[UIView(SetRect) setCornerOnTopLeft:]
+-[UIView(SetRect) setCornerOnTopRight:]
+-[UIView(SetRect) setCornerOnBottomLeft:]
+-[UIView(SetRect) setCornerOnBottomRight:]
+-[UIView(SetRect) setAllCorner:]
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/chuanglan/Desktop/QZInputToolBar/QZInputToolBar/QZInputToolBar/InputToolBar/UIView+SetRect.m
+/Users/chuanglan/Desktop/QZInputToolBar/QZInputToolBar
+-[QZInputToolbar initWithFrame:]
+-[QZInputToolbar initView]
+-[QZInputToolbar addNotification]
+-[QZInputToolbar setFontSize:]
+-[QZInputToolbar setTextViewMaxLine:]
+-[QZInputToolbar setPlaceholder:]
+-[QZInputToolbar keyboardWillShow:]
+___35-[QZInputToolbar keyboardWillShow:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[QZInputToolbar keyboardWillHidden:]
+___37-[QZInputToolbar keyboardWillHidden:]_block_invoke
+-[QZInputToolbar textViewDidChange:]
+-[QZInputToolbar didClicksendButton]
+-[QZInputToolbar inputToolbarSendText:]
+-[QZInputToolbar popToolbar]
+-[QZInputToolbar bounceToolbar]
+-[QZInputToolbar layoutSubviews]
+-[QZInputToolbar dealloc]
+-[QZInputToolbar textViewMaxLine]
+-[QZInputToolbar fontSize]
+-[QZInputToolbar placeholder]
+-[QZInputToolbar textView]
+-[QZInputToolbar setTextView:]
+-[QZInputToolbar edgeLineView]
+-[QZInputToolbar setEdgeLineView:]
+-[QZInputToolbar topLine]
+-[QZInputToolbar setTopLine:]
+-[QZInputToolbar bottomLine]
+-[QZInputToolbar setBottomLine:]
+-[QZInputToolbar placeholderLabel]
+-[QZInputToolbar setPlaceholderLabel:]
+-[QZInputToolbar sendButton]
+-[QZInputToolbar setSendButton:]
+-[QZInputToolbar keyboardHeight]
+-[QZInputToolbar setKeyboardHeight:]
+-[QZInputToolbar inputTextBlock]
+-[QZInputToolbar setInputTextBlock:]
+-[QZInputToolbar .cxx_destruct]
+_OBJC_IVAR_$_QZInputToolbar._fontSize
+_OBJC_IVAR_$_QZInputToolbar._textViewMaxLine
+_OBJC_IVAR_$_QZInputToolbar._placeholder
+_OBJC_IVAR_$_QZInputToolbar._keyboardHeight
+___block_descriptor_72_e8_32s_e5_v8@?0l
+___block_descriptor_40_e8_32s_e5_v8@?0l
+_OBJC_IVAR_$_QZInputToolbar._textView
+_OBJC_IVAR_$_QZInputToolbar._edgeLineView
+_OBJC_IVAR_$_QZInputToolbar._topLine
+_OBJC_IVAR_$_QZInputToolbar._bottomLine
+_OBJC_IVAR_$_QZInputToolbar._placeholderLabel
+_OBJC_IVAR_$_QZInputToolbar._sendButton
+_OBJC_IVAR_$_QZInputToolbar._inputTextBlock
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_PROTOCOL_$_UITextViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_UITextViewDelegate
+/Users/chuanglan/Desktop/QZInputToolBar/QZInputToolBar/QZInputToolBar/InputToolBar/QZInputToolbar.m
+/Users/chuanglan/Desktop/QZInputToolBar/QZInputToolBar/QZInputToolBar/InputToolBar/QZInputToolbar.h
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+__37-[QZInputToolbar keyboardWillHidden:]_block_invoke
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__35-[QZInputToolbar keyboardWillShow:]_block_invoke
+/Users/chuanglan/Library/Developer/Xcode/DerivedData/QZInputToolBar-flqsyryoaxooaragatdbnrmydkym/Build/Intermediates.noindex/ArchiveIntermediates/QZInputToolBar/IntermediateBuildFilesPath/QZInputToolBar.build/Release-iphoneos/QZInputToolBar.build/DerivedSources/QZInputToolBar_vers.c

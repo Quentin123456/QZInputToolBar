@@ -1,0 +1,6 @@
+framework module QZInputToolBar {
+  umbrella header "QZInputToolBar.h"
+
+  export *
+  module * { export * }
+}
